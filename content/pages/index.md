@@ -711,7 +711,7 @@ sections:
           options:
             - Working Capital
             - Vehicle Finance
-            - ''
+            - Equipment Finance
           isRequired: false
           width: full
       elementId: contact-form
