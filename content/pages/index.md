@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At FutureBiz, we represent a group of leading Australian commercial
+      finance brokers with decades of shared industry experience. Together we
+      are helping Aussie businesses get access to the funding they need to
+      achieve their goals.
     actions:
       - label: Get started
         altText: ''
