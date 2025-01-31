@@ -703,6 +703,14 @@ sections:
           placeholder: Phone number
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: Loan Purpose
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
