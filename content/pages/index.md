@@ -708,7 +708,8 @@ sections:
           label: Loan Purpose
           hideLabel: false
           defaultValue: Please choose...
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
       elementId: contact-form
