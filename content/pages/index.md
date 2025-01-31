@@ -684,7 +684,7 @@ sections:
           type: TextFormControl
         - type: TextFormControl
           name: Last name
-          label: Name
+          label: Last name
           hideLabel: true
           placeholder: Your name
           isRequired: true
