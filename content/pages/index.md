@@ -7,7 +7,7 @@ sections:
       text: Get the finance your business needs
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       At FutureBiz, we represent a group of leading Australian commercial
       finance brokers with decades of shared industry experience. Together we
