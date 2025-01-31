@@ -675,7 +675,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       fields:
-        - name: name
+        - name: First name
           label: Name
           hideLabel: true
           placeholder: First name
