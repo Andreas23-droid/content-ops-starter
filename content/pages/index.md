@@ -717,7 +717,7 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: opt in
-          label: I have read and accept the legal terms.
+          label: I agree to receive marketing offers.
           isRequired: false
           width: full
       elementId: contact-form
