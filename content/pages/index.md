@@ -682,6 +682,13 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
+        - type: TextFormControl
+          name: First name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - name: email
           label: Email
           hideLabel: true
