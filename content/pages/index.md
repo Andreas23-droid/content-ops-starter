@@ -676,7 +676,7 @@ sections:
     media:
       fields:
         - name: First name
-          label: Name
+          label: First name
           hideLabel: true
           placeholder: First name
           isRequired: true
