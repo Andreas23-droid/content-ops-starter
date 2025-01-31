@@ -710,6 +710,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Working Capital
+            - ''
           isRequired: false
           width: full
       elementId: contact-form
