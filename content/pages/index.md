@@ -14,15 +14,6 @@ sections:
       are helping Aussie businesses get access to the funding they need to
       achieve their goals.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
