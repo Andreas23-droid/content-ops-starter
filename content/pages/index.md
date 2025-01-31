@@ -683,7 +683,7 @@ sections:
           width: full
           type: TextFormControl
         - type: TextFormControl
-          name: First name
+          name: Last name
           label: Name
           hideLabel: true
           placeholder: Your name
