@@ -715,6 +715,11 @@ sections:
             - Other
           isRequired: false
           width: full
+        - type: CheckboxFormControl
+          name: opt in
+          label: I have read and accept the legal terms.
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
