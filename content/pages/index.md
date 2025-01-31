@@ -686,7 +686,7 @@ sections:
           name: Last name
           label: Last name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Last name
           isRequired: true
           width: full
         - name: email
