@@ -709,7 +709,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options:
-            - ''
+            - Working Capital
           isRequired: false
           width: full
       elementId: contact-form
