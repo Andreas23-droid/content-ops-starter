@@ -692,7 +692,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Email
           isRequired: true
           width: full
           type: EmailFormControl
