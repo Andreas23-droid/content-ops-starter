@@ -2,6 +2,33 @@
 title: Home
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: Get the finance your business needs
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      At FutureBiz, we represent a group of leading Australian commercial
+      finance brokers with decades of shared industry experience. Together we
+      are helping Aussie businesses get access to the funding they need to
+      achieve their goals.
+    actions: []
+    media:
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Why choose us?
@@ -119,33 +146,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Get the finance your business needs
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      At FutureBiz, we represent a group of leading Australian commercial
-      finance brokers with decades of shared industry experience. Together we
-      are helping Aussie businesses get access to the funding they need to
-      achieve their goals.
-    actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
