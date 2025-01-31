@@ -705,7 +705,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: Loan Purpose
-          label: Company size
+          label: Loan Purpose
           hideLabel: false
           defaultValue: Please choose...
           options: []
