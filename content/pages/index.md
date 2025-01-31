@@ -710,7 +710,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Working Capital
-            - ''
+            - Vehicle Finance
           isRequired: false
           width: full
       elementId: contact-form
