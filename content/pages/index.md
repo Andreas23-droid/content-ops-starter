@@ -700,7 +700,7 @@ sections:
           name: Phone
           label: Phone
           hideLabel: true
-          placeholder: Your name
+          placeholder: Your phone number
           isRequired: true
           width: full
       elementId: contact-form
