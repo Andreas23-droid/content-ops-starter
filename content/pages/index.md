@@ -698,7 +698,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Phone
-          label: Name
+          label: Phone
           hideLabel: true
           placeholder: Your name
           isRequired: true
