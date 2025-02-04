@@ -15,9 +15,72 @@ sections:
       achieve their goals.
     actions: []
     media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: First name
+          label: First name
+          hideLabel: true
+          placeholder: First name
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: Last name
+          label: Last name
+          hideLabel: true
+          placeholder: Last name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Email
+          isRequired: true
+          width: full
+        - type: TextFormControl
+          name: Phone
+          label: Phone
+          hideLabel: true
+          placeholder: Phone number
+          isRequired: true
+          width: full
+        - type: SelectFormControl
+          name: Loan Purpose
+          label: Loan Purpose
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - Working Capital
+            - Vehicle Finance
+            - Equipment Finance
+            - Other
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: opt in
+          label: I agree to receive marketing offers.
+          isRequired: false
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
     elementId: ''
     colors: bg-light-fg-dark
     styles:
